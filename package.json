@@ -1,0 +1,14 @@
+{
+  "name": "metalsmith-handlebars-within",
+  "version": "0.0.0",
+  "description": "A metalsmith plugin to specify metadata for `{{#with}}` in Handlebars templates.",
+  "homepage": "http://opensource.losttype.com",
+  "author": "Kenneth Ormandy <hello@kennethormandy.com> (http://kennethormandy.com)",
+  "license": "MIT",
+  "private": false,
+  "repository": "git@github.com:losttype/metalsmith-handlebars-within.git",
+  "keywords": ["metalsmith", "metalsmith plugin", "handlebars"],
+  "scripts": {
+    "test": "echo \"Error: no test specified…yet! Pull requests on losttype/metalsmith-handlebars-within are greatly appreciated.\" && exit 1"
+  }
+}
